@@ -1,3 +1,12 @@
+# Cópia do Repositório do Helios da IFSC
+
+Uso para votação de Assembléias das cooperativas do Estado do Rio de Janeiro.
+
+
+# Abaixo um tutorial de instalação tirado diretamente do Repositório da IFSC
+
+
+
 - [Sistema de votação Helios como serviço de TIC](#sistema-de-votação-helios-como-serviço-de-tic)
   - [Personalizações feitas pelo IFSC no Helios](#personalizações-feitas-pelo-ifsc-no-helios)
 - [Guia de instalação e configuração do Helios](#guia-de-instalação-e-configuração-do-helios)
